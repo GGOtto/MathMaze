@@ -1,0 +1,15 @@
+trainer::The Trainer offers an easy way to drill AMC problems. You can chose the mode you want to play in below!
+You can solve random problems or try your hand in exam format. Use the help tag if you are confused.
+===
+free::Free Solve Mode is so you can
+continually focus completely on
+solving problems.
+===
+quiz::Exam Mode is so you can solve
+an exam with similar rules
+to a real AMC. You may choose
+any exam, or run it with random
+problems.
+===
+maze::Go through the maze and solve the problems to collect chests. You win when you have collected the 
+last chest. Watch out for the creatures in the maze! If anything confuses you, use the help tab.

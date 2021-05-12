@@ -1,0 +1,12 @@
+door_closed 16 -5
+monster5_2 22 -11
+monster1_1 34 -16
+monster2_1 37 -18
+monster4_1 43 -21
+monster3_2 54 -26
+iron 56 -10
+gold 71 -10
+sapphire 87 -10
+ruby 86 -10
+emerald 85 -10
+diamond 100 -10

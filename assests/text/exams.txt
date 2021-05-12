@@ -1,0 +1,4 @@
+AMC 8: 1
+MathMaze: 2
+AMC 10A: 3
+AHSME: 4
