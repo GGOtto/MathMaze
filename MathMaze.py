@@ -1004,7 +1004,6 @@ class MathMazeFrame(Frame):
         '''MathMazeFrame.random_problem() -> (str, int)
         returns a random problem'''
         test = random.choice(list(self.problems))
-        test = "2007 AMC 8"
         problem = random.randrange(len(self.problems[test]))+1
         self.problemIter += 1
         return test, problem
