@@ -5,7 +5,7 @@
 
 from tkinter import *
 from tkinter import messagebox as msg
-import d617468204d617a65 as maze
+import MazeCanvas as maze
 import random
 
 class ScrolledCanvas(Frame):
